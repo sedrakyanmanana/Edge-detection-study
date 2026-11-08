@@ -170,7 +170,6 @@ The experiment has several limitations:
 - Only the first human boundary annotation is used for each image.
 - A custom boundary-matching method is used instead of the official BSDS500 evaluation protocol.
 - Only one Gaussian blur setting and one contrast-reduction level are tested.
-- Results may depend on the selected algorithm thresholds and implementation choices.
 
 These limitations should be considered when interpreting the experimental results.
 
